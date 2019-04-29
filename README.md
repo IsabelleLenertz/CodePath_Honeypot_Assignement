@@ -1,5 +1,5 @@
-# CodePath_Honeypot_Assignement
-## Which Honeypot(s) you deployed:
+ CodePath_Honeypot_Assignement
+## Which Honeypot(s) you deployed
 - dionaea
 - elastichoney
 
@@ -38,4 +38,12 @@ That's how I realized that the firewall rule I set up for the honeypots was not 
 
 
 ## Summary of the data collected: number of attacks, number of malware samples, etc.
+26,677 attacks total comming from all over the world:
+- 26,666 attacks on my Dionaea Honeypot - ran for 6 days
+- 11 attacks on my Elastichoney Honeypot - ran for 4 days
+Unfortunately, no payload dowloaded
+<img src="status.gif" width="800">
+
+
 ## Any unresolved questions raised by the data collected
+Why did my Elastichoney honeypot get so few attacks compared to my Dioneae honeypot?
